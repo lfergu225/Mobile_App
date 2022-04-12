@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/Ferguson_Laura_s2130158/app/src/main/res/layout-land/activity_main.xml" value="0.2006172839506173" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/Ferguson_Laura_s2130158/app/src/main/res/layout-land/activity_main2.xml" value="0.2006172839506173" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/Ferguson_Laura_s2130158/app/src/main/res/layout-land/activity_plannedroadworks.xml" value="0.176" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/Ferguson_Laura_s2130158/app/src/main/res/layout/activity_main.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/Ferguson_Laura_s2130158/app/src/main/res/layout/activity_main2.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/Ferguson_Laura_s2130158/app/src/main/res/layout/activity_maps.xml" value="0.21875" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/Ferguson_Laura_s2130158/app/src/main/res/layout/activity_plannedroadworks.xml" value="0.21875" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/Ferguson_Laura_s2130158_Yes/app/src/main/res/layout-land/activity_main.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/Ferguson_Laura_s2130158_Yes/app/src/main/res/layout-land/activity_main2.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/Ferguson_Laura_s2130158_Yes/app/src/main/res/layout-land/activity_plannedroadworks.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/Ferguson_Laura_s2130158_Yes/app/src/main/res/layout/activity_main.xml" value="0.2203125" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/My_Button_Application - Copy - Copy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/My_Button_Application - Copy - Copy/app/src/main/res/layout/activity_main.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/My_Button_Application - Copy - Copy/app/src/main/res/layout/activity_main2.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/My_Button_Application - Copy - Copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2265" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/My_Button_Application - Copy - Copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2265" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/My_Button_Application/app/src/main/res/layout/activity_main.xml" value="0.24728260869565216" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/My_Button_Application/app/src/main/res/layout/activity_main2.xml" value="0.24728260869565216" />
+        <entry key="..\:/Users/laura/OneDrive/Desktop/Uni/Mobile Platform/My_Button_Application/app/src/main/res/layout/activity_plannedroadworks.xml" value="0.22239583333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
